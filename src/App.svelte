@@ -5,7 +5,7 @@
     import FaCircle from 'svelte-icons/fa/FaCircle.svelte'
 </script>
 
-<main class="">
+<main class="h-full w-full bg-slate-800 text-sky-300">
     <div class=" h-full flex flex-col rounded">
         <div class="flex flex-col items-center justify-center h-full my-4 mx-64 rounded-xl bg-black">
             <div class="w-full h-10 rounded-xl top-0 left-0 mx-4 flex flex-row items-center justify-left bg-slate-700">
